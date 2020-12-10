@@ -2459,6 +2459,11 @@ body {
 .cid-rfOHg9Ak5v .mbr-text UL {
   color: #232323;
 }
+.cid-siKiM0Vr94 {
+  padding-top: 75px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/20140518-132101-s2c-workshop-2000x1500.jpg");
+}
 .cid-r8rKMgPKBi .navbar {
   background: #ffffff;
   transition: none;
@@ -2847,9 +2852,6 @@ body {
 .cid-r8rKMgPKBi .nav-link:hover,
 .cid-r8rKMgPKBi .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-rfHgIGMCqs {
-  background: linear-gradient(45deg, #0f7699, #149dcc);
 }
 .cid-rfHhPVy6OD {
   padding-top: 60px;
